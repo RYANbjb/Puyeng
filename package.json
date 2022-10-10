@@ -8,5 +8,17 @@
   "private": false,
   "scripts": {
     "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnurhidayat/probable-garbanzo.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/fnurhidayat/probable-garbanzo/issues"
+  },
+  "homepage": "https://github.com/fnurhidayat/probable-garbanzo#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
   }
 }
